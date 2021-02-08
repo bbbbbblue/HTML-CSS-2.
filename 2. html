@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Chapter two= headings and paragraphs, bold, italic, emphasis, structural and semantic markup.</title>
+        <h1> paragraphs will identify different sub catagories in this chapter.</h1>        
+        <p>I understand the heaading and paragrpah, testing now is <b> bold </b> and <i>italic</i></p>
+        <p>Next is superscript and subscript. Super is up and sub is below, example sentace is the following
+            On today February the 8<sup>th</sup>,(superscript) Albert Enstien flew back in time on his magiv carpet to teach me E=MC<sup>2</sup>(superscript). By the way, is you breath in to much CO<sub>2</sub>(subscript) you will most definitely die. You're welcome. 
+        </p>
+    </head>
+</html>
