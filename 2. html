@@ -7,5 +7,38 @@
         <p>Next is superscript and subscript. Super is up and sub is below, example sentace is the following
             On today February the 8<sup>th</sup>,(superscript) Albert Enstien flew back in time on his magiv carpet to teach me E=MC<sup>2</sup>(superscript). By the way, is you breath in to much CO<sub>2</sub>(subscript) you will most definitely die. You're welcome. 
         </p>
+        <p>- You can use white space 
+            for code organization perposes 
+            but it does not                 show on web page, (         look at         the code for example)
+        </p>
+        <p>- Line breaks are good when you want to start a new line <br/> in the middle <br/> of any paragraph</p>
+        <p>- Hoorizontal rules are used for creating a digital line inbetween any two pieces of text. <br/>
+            <br/>
+            sheetrock on homes takes 10-14 days to texture
+            <hr/>
+            Although when it is cold outside it could take longer because the sheetrock mud to cover the seams takes longer to dry.
+        </p>
+        <p>- abbreviations= <abbr title="Professor">Prof</abbr> Skyler Blue <q>Damn i look good</q> Stevens is the smartest person ive personally ever know and will always know. Thanks Skyler, <q>says Skyler in the third person.</q> Also wrong use of quotations.
+        </p>
+        <p>- Acro0nyms= Lets see what the longest acronym is and plug it in... 
+            <br/>
+            <abbr title="Armour Piercing Fin Stabilised Discarding sabot Depleted Uranium Shell">APFSDSDUS</abbr> is what the Gulf War 2 veterans are saying may be causing ill health amongst them.
+        </p>
+        <p>-Address= Please dont email me here, it is not real. 
+            <address>
+                <a href="mailto:thicksteaks@yummyumm.notanemail.org">
+                thicksteaks@yummyumm.notanemail.org</a>
+                744 out the door, Springfield
+            </address>
+        </p>
+        <h1>The Story of all Stories</h1>
+        <h2>Chapter 1 and Done  </h2>
+        <p> One and done, thats the motto I live by. Never these lame mottos like <abbr title="You Only Live Once">YOLO</abbr>, which is a motto and acronym at the same time.
+            Once you've become both motto and acronym you've lost at live but one the game of best rap song of 2012. Congrats you made it. 
+            <h4> The End, Thanks for watching.</h4>
+        </p>
+        <p>- Summary and conclusion= this is used to put emphasis on text formats and text that matters and anything inbetween to get your point across is the easiest way possible.
+            
+        </p>
     </head>
 </html>
